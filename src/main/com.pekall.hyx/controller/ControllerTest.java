@@ -18,5 +18,6 @@ public class ControllerTest {
 
     public static void main(String[] args) {
         SpringApplication.run(ControllerTest.class, args);
+        System.out.println(1111);
     }
 }
